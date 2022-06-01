@@ -1,5 +1,6 @@
 class Solution {
     public String simplifyPath(String path) {
+        //
         Stack<String> stack = new Stack<>();
         String result = "";
 
